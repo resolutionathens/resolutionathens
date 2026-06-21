@@ -43,6 +43,7 @@
 - 🚂 **[trains.ianslap.top](https://trains.ianslap.top)** — 18xx train games, rebuilt for the browser
 - 🎬 **[Slouching Towards Hollywood](https://github.com/resolutionathens/slouching-towards-hollywood)**
 - 🌐 **[resolutionathens.com](https://resolutionathens.com)** — the original homestead (an oldie)
+- 🤪 **[ianslap.top](https://ianslap.top)** — another silly homepage
 - 🏢 **[facilitron.com](https://facilitron.com)** — the day job: marketing-web engineering, SEO, landing pages
 
 <!-- ░░░ cat stack.txt ░░░ -->
