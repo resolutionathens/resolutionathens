@@ -19,18 +19,18 @@
 <!-- ░░░ NEOFETCH-STYLE SYSTEM INFO ░░░ -->
 
 ```ansi
-                              ian@ianslaptop
-      |_|0|_|                 ──────────────────────────────────────
-      |_|_|0|                 OS ......  Athens/GA · macOS · Cloudflare edge
-      |0|0|0|                 Host ....  Facilitron · strategy · SEO · dev · tooling
-                              Kernel ..  Nuxt 4 · Vue 3 · Vite
-                              Shell ...  zsh + Claude Code
-                              WM ......  tron-os (agentic orchestration layer)
-                              Stack ...  TypeScript · Cloudflare · D1/R2
-      $ uptime                Editor ..  neovim
-      load avg:               Uptime ..  shipping since the dial-up era
-      ☕ ☕ ☕                  Snacks ..  required for all parties
-                              Motto ...  "I like parties with snacks"
+[38;2;0;255;102m                              ian@ianslaptop[0m
+[38;2;0;255;102m|_|0|_|                       [0m[38;2;10;143;60m────────────────────────────────────────[0m
+[38;2;0;255;102m|_|_|0|                       [0m[38;2;10;143;60mOS ......  [0m[38;2;0;255;102mAthens/GA · macOS · Cloudflare edge[0m
+[38;2;0;255;102m|0|0|0|                       [0m[38;2;10;143;60mHost ....  [0m[38;2;0;255;102mFacilitron · strategy · SEO · dev · tooling[0m
+[38;2;0;255;102m                              [0m[38;2;10;143;60mKernel ..  [0m[38;2;0;255;102mNuxt 4 · Vue 3 · Vite[0m
+[38;2;0;255;102m                              [0m[38;2;10;143;60mShell ...  [0m[38;2;0;255;102mzsh + Claude Code[0m
+[38;2;0;255;102m                              [0m[38;2;10;143;60mWM ......  [0m[38;2;0;255;102mtron-os (agentic orchestration layer)[0m
+[38;2;0;255;102m                              [0m[38;2;10;143;60mStack ...  [0m[38;2;0;255;102mTypeScript · Cloudflare · D1/R2[0m
+[38;2;10;143;60m$ uptime                      [0m[38;2;10;143;60mEditor ..  [0m[38;2;0;255;102mneovim[0m
+[38;2;10;143;60mload avg:                     [0m[38;2;10;143;60mUptime ..  [0m[38;2;0;255;102mshipping since the dial-up era[0m
+[38;2;10;143;60m☕ ☕ ☕                         [0m[38;2;10;143;60mSnacks ..  [0m[38;2;0;255;102mrequired for all parties[0m
+[38;2;0;255;102m                              [0m[38;2;10;143;60mMotto ...  [0m[38;2;0;255;102m"I like parties with snacks"[0m
 ```
 
 <!-- ░░░ ls -la ~/projects ░░░ -->
@@ -65,8 +65,9 @@
 <!-- Self-hosted on Cloudflare (stats.ianslap.top) so PRIVATE + org contributions
      are actually counted — the public stats services can't see those. -->
 <p align="center">
-  <img height="210" src="https://stats.ianslap.top/" alt="github stats — includes private + org contributions" />
-  <img height="210" src="https://stats.ianslap.top/langs" alt="top languages" />
+  <img width="100%" src="https://stats.ianslap.top/" alt="github stats — includes private + org contributions" />
+  <br/>
+  <img width="100%" src="https://stats.ianslap.top/langs" alt="top languages" />
 </p>
 
 <!-- ░░░ contribution snake (needs the GitHub Action below) ░░░ -->
