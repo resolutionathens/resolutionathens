@@ -19,7 +19,7 @@
 <!-- ░░░ NEOFETCH-STYLE SYSTEM INFO ░░░ -->
 
 <p align="center">
-  <img width="100%" src="https://stats.ianslap.top/neofetch" alt="neofetch — system info" />
+  <a href="https://github.com/resolutionathens"><img width="100%" src="https://stats.ianslap.top/neofetch" alt="neofetch — system info" /></a>
 </p>
 
 <!-- ░░░ ls -la ~/projects ░░░ -->
@@ -54,9 +54,9 @@
 <!-- Self-hosted on Cloudflare (stats.ianslap.top) so PRIVATE + org contributions
      are actually counted — the public stats services can't see those. -->
 <p align="center">
-  <img width="100%" src="https://stats.ianslap.top/" alt="github stats — includes private + org contributions" />
+  <a href="https://github.com/resolutionathens"><img width="100%" src="https://stats.ianslap.top/" alt="github stats — includes private + org contributions" /></a>
   <br/>
-  <img width="100%" src="https://stats.ianslap.top/langs" alt="top languages" />
+  <a href="https://github.com/resolutionathens"><img width="100%" src="https://stats.ianslap.top/langs" alt="top languages" /></a>
 </p>
 
 <!-- ░░░ contribution snake (needs the GitHub Action below) ░░░ -->
@@ -72,7 +72,7 @@
 ### `~ $ finger ian`
 
 <p align="center">
-  <img width="100%" src="https://stats.ianslap.top/finger" alt="finger ian — contact" />
+  <a href="https://github.com/resolutionathens"><img width="100%" src="https://stats.ianslap.top/finger" alt="finger ian — contact" /></a>
 </p>
 
 <p align="center"><sub><code>logout</code> — connection closed by foreign host.</sub></p>
