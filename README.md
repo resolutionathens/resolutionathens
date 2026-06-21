@@ -12,7 +12,7 @@
 <!-- ░░░ BOOT SEQUENCE — animated green-on-black typing banner ░░░ -->
 <p align="center">
   <a href="https://github.com/resolutionathens">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=700&color=00FF66&background=000000&center=true&vCenter=true&width=720&height=120&lines=%3E+booting+ianslaptop...;%3E+whoami;Ian+Kennedy+%3A%3A+Athens%2C+GA;marketing-web+engineer+%40+Facilitron;Nuxt+%2F+Cloudflare+%2F+agentic+tooling;%3E+I+like+parties+with+snacks_" alt="terminal typing banner" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=700&color=00FF66&background=000000&center=true&vCenter=true&width=720&height=120&lines=%3E+booting+ianslaptop...;%3E+whoami;Ian+Kennedy+%3A%3A+Athens%2C+GA;strategy+%2F+SEO+%2F+dev+%40+Facilitron;Nuxt+%2F+Cloudflare+%2F+agentic+tooling;%3E+I+like+parties+with+snacks_" alt="terminal typing banner" />
   </a>
 </p>
 
@@ -22,7 +22,7 @@
                                     ian@ianslaptop
        _.-=-._                      ──────────────────────────────────────
     .-'  ___  '-.        OS ......  Athens/GA · macOS · Cloudflare edge
-   /    /   \    \       Host ....  Facilitron (marketing-web engineer)
+   /    /   \    \       Host ....  Facilitron · strategy · SEO · dev · tooling
   |    | o o |    |       Kernel ..  Nuxt 4 · Vue 3 · Vite
   |    |  ^  |    |       Shell ...  zsh + Claude Code
    \    \___/    /        WM ......  tron-os (agentic orchestration layer)
@@ -44,7 +44,7 @@
 - 🎬 **[Slouching Towards Hollywood](https://github.com/resolutionathens/slouching-towards-hollywood)** — Ashley Kennedy's movie-review blog (~200 reviews · Astro)
 - 🌐 **[resolutionathens.com](https://resolutionathens.com)** — Resolution, a full-service Athens ad & design agency
 - 🤪 **[ianslap.top](https://ianslap.top)** — a silly homepage + home of weekend apps (e.g. a Nissan Frontier maintenance tracker)
-- 🏢 **[facilitron.com](https://facilitron.com)** — the day job: programmatic SEO generating thousands of city/facility landing pages, plus a self-built **agentic OS** (`tron-os`) — orchestration, episodic memory, launchd scheduling, a self-maintenance agent, and an approve-only control plane — that drives a fleet of `tron:*` Claude Code skills across the whole ship-it lifecycle
+- 🏢 **[facilitron.com](https://facilitron.com)** — the day job: strategy, SEO, development & tool-building. Programmatic SEO generating thousands of city/facility landing pages, and a self-built **agentic OS** (`tron-os`) — orchestration, episodic memory, launchd scheduling, a self-maintenance agent, and an approve-only control plane — driving a fleet of `tron:*` Claude Code skills across the whole ship-it lifecycle
 
 <!-- ░░░ cat stack.txt ░░░ -->
 
