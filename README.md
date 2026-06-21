@@ -26,7 +26,7 @@
   |    | o o |    |       Kernel ..  Nuxt 4 · Vue 3 · Vite
   |    |  ^  |    |       Shell ...  zsh + Claude Code
    \    \___/    /        WM ......  tron-os (agentic orchestration layer)
-    '-._     _.-'         Stack ...  TypeScript · Wrangler · D1/R2
+    '-._     _.-'         Stack ...  TypeScript · Cloudflare · D1/R2
         '---'             Editor ..  neovim
                           Uptime ..  shipping since the dial-up era
    $ uptime               Snacks ..  required for all parties
