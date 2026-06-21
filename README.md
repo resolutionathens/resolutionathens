@@ -18,20 +18,9 @@
 
 <!-- ░░░ NEOFETCH-STYLE SYSTEM INFO ░░░ -->
 
-```ansi
-[38;2;0;255;102m                              ian@ianslaptop[0m
-[38;2;0;255;102m|_|0|_|                       [0m[38;2;10;143;60m────────────────────────────────────────[0m
-[38;2;0;255;102m|_|_|0|                       [0m[38;2;10;143;60mOS ......  [0m[38;2;0;255;102mAthens/GA · macOS · Cloudflare edge[0m
-[38;2;0;255;102m|0|0|0|                       [0m[38;2;10;143;60mHost ....  [0m[38;2;0;255;102mFacilitron · strategy · SEO · dev · tooling[0m
-[38;2;0;255;102m                              [0m[38;2;10;143;60mKernel ..  [0m[38;2;0;255;102mNuxt 4 · Vue 3 · Vite[0m
-[38;2;0;255;102m                              [0m[38;2;10;143;60mShell ...  [0m[38;2;0;255;102mzsh + Claude Code[0m
-[38;2;0;255;102m                              [0m[38;2;10;143;60mWM ......  [0m[38;2;0;255;102mtron-os (agentic orchestration layer)[0m
-[38;2;0;255;102m                              [0m[38;2;10;143;60mStack ...  [0m[38;2;0;255;102mTypeScript · Cloudflare · D1/R2[0m
-[38;2;10;143;60m$ uptime                      [0m[38;2;10;143;60mEditor ..  [0m[38;2;0;255;102mneovim[0m
-[38;2;10;143;60mload avg:                     [0m[38;2;10;143;60mUptime ..  [0m[38;2;0;255;102mshipping since the dial-up era[0m
-[38;2;10;143;60m☕ ☕ ☕                         [0m[38;2;10;143;60mSnacks ..  [0m[38;2;0;255;102mrequired for all parties[0m
-[38;2;0;255;102m                              [0m[38;2;10;143;60mMotto ...  [0m[38;2;0;255;102m"I like parties with snacks"[0m
-```
+<p align="center">
+  <img width="100%" src="https://stats.ianslap.top/neofetch" alt="neofetch — system info" />
+</p>
 
 <!-- ░░░ ls -la ~/projects ░░░ -->
 
@@ -82,10 +71,8 @@
 
 ### `~ $ finger ian`
 
-```
-Site ....  fiftymillimeter.com
-Email ...  ian@resolutionathens.com
-Status ..  ● online — bring snacks
-```
+<p align="center">
+  <img width="100%" src="https://stats.ianslap.top/finger" alt="finger ian — contact" />
+</p>
 
 <p align="center"><sub><code>logout</code> — connection closed by foreign host.</sub></p>
