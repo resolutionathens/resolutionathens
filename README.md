@@ -38,12 +38,12 @@
 ### `~ $ ls -la ./projects`
 
 - 📷 **[fiftymillimeter.com](https://fiftymillimeter.com)** — photography portfolio · Nuxt 4 + Cloudflare R2
-- 🏛️ **[athenspedia.com](https://athenspedia.com)** — an encyclopedia for Athens
+- 🏛️ **[athenspedia.com](https://athenspedia.com)** — a wiki-style guide to Athens, GA
 - 🖨️ **[theprinttrade.com](https://theprinttrade.com)** — The Print Trade · printmaking shop & community
 - 🚂 **[trains.ianslap.top](https://trains.ianslap.top)** — 18xx train games, rebuilt for the browser
-- 🎬 **[Slouching Towards Hollywood](https://github.com/resolutionathens/slouching-towards-hollywood)**
-- 🌐 **[resolutionathens.com](https://resolutionathens.com)** — the original homestead (an oldie)
-- 🤪 **[ianslap.top](https://ianslap.top)** — another silly homepage
+- 🎬 **[Slouching Towards Hollywood](https://github.com/resolutionathens/slouching-towards-hollywood)** — Ashley Kennedy's movie-review blog (~200 reviews · Astro)
+- 🌐 **[resolutionathens.com](https://resolutionathens.com)** — Resolution, a full-service Athens ad & design agency
+- 🤪 **[ianslap.top](https://ianslap.top)** — a silly homepage + home of weekend apps (e.g. a Nissan Frontier maintenance tracker)
 - 🏢 **[facilitron.com](https://facilitron.com)** — the day job: marketing-web engineering, SEO, landing pages
 
 <!-- ░░░ cat stack.txt ░░░ -->
