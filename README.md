@@ -19,18 +19,18 @@
 <!-- ░░░ NEOFETCH-STYLE SYSTEM INFO ░░░ -->
 
 ```ansi
-                                    ian@ianslaptop
-       _.-=-._                      ──────────────────────────────────────
-    .-'  ___  '-.        OS ......  Athens/GA · macOS · Cloudflare edge
-   /    /   \    \       Host ....  Facilitron · strategy · SEO · dev · tooling
-  |    | o o |    |       Kernel ..  Nuxt 4 · Vue 3 · Vite
-  |    |  ^  |    |       Shell ...  zsh + Claude Code
-   \    \___/    /        WM ......  tron-os (agentic orchestration layer)
-    '-._     _.-'         Stack ...  TypeScript · Cloudflare · D1/R2
-        '---'             Editor ..  neovim
-                          Uptime ..  shipping since the dial-up era
-   $ uptime               Snacks ..  required for all parties
-   load average: ☕ ☕ ☕   Motto ...  "I like parties with snacks"
+                              ian@ianslaptop
+      |_|0|_|                 ──────────────────────────────────────
+      |_|_|0|                 OS ......  Athens/GA · macOS · Cloudflare edge
+      |0|0|0|                 Host ....  Facilitron · strategy · SEO · dev · tooling
+                              Kernel ..  Nuxt 4 · Vue 3 · Vite
+      a glider —              Shell ...  zsh + Claude Code
+      still flying            WM ......  tron-os (agentic orchestration layer)
+                              Stack ...  TypeScript · Cloudflare · D1/R2
+      $ uptime                Editor ..  neovim
+      load avg:               Uptime ..  shipping since the dial-up era
+      ☕ ☕ ☕                  Snacks ..  required for all parties
+                              Motto ...  "I like parties with snacks"
 ```
 
 <!-- ░░░ ls -la ~/projects ░░░ -->
