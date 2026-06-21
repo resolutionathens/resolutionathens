@@ -62,13 +62,11 @@
 
 ### `~ $ git log --oneline --stat`
 
+<!-- Self-hosted on Cloudflare (stats.ianslap.top) so PRIVATE + org contributions
+     are actually counted — the public stats services can't see those. -->
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=resolutionathens&show_icons=true&hide_border=true&bg_color=000000&title_color=00FF66&text_color=00FF66&icon_color=00FF66&include_all_commits=true&count_private=true" alt="github stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=resolutionathens&layout=compact&hide_border=true&bg_color=000000&title_color=00FF66&text_color=00FF66" alt="top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=resolutionathens&theme=dark&hide_border=true&background=000000&ring=00FF66&fire=00FF66&currStreakLabel=00FF66&sideLabels=00FF66&dates=00FF66&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="commit streak" />
+  <img height="210" src="https://stats.ianslap.top/" alt="github stats — includes private + org contributions" />
+  <img height="210" src="https://stats.ianslap.top/langs" alt="top languages" />
 </p>
 
 <!-- ░░░ contribution snake (needs the GitHub Action below) ░░░ -->
