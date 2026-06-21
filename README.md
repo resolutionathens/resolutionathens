@@ -26,8 +26,8 @@
   |    | o o |    |       Kernel ..  Nuxt 4 · Vue 3 · Vite
   |    |  ^  |    |       Shell ...  zsh + Claude Code
    \    \___/    /        WM ......  tron-os (agentic orchestration layer)
-    '-._     _.-'         Stack ...  TypeScript · Tailwind · Wrangler · D1/R2
-        '---'             Editor ..  VS Code + Volar
+    '-._     _.-'         Stack ...  TypeScript · Wrangler · D1/R2
+        '---'             Editor ..  neovim
                           Uptime ..  shipping since the dial-up era
    $ uptime               Snacks ..  required for all parties
    load average: ☕ ☕ ☕   Motto ...  "I like parties with snacks"
@@ -42,8 +42,8 @@
 - 🖨️ **[theprinttrade.com](https://theprinttrade.com)** — The Print Trade · printmaking shop & community
 - 🚂 **[trains.ianslap.top](https://trains.ianslap.top)** — 18xx train games, rebuilt for the browser
 - 🎬 **[Slouching Towards Hollywood](https://github.com/resolutionathens/slouching-towards-hollywood)**
-- 🤖 **tron-os** — agentic OS: memory · scheduling · self-maintenance (powers my `tron:*` skills)
-- 🏢 **Facilitron** — the day job: marketing-web engineering, SEO, landing pages
+- 🌐 **[resolutionathens.com](https://resolutionathens.com)** — the original homestead (an oldie)
+- 🏢 **[facilitron.com](https://facilitron.com)** — the day job: marketing-web engineering, SEO, landing pages
 
 <!-- ░░░ cat stack.txt ░░░ -->
 
@@ -52,7 +52,6 @@
 ![Vue](https://img.shields.io/badge/Vue-000000?style=flat-square&logo=vuedotjs&logoColor=00FF66)
 ![Nuxt](https://img.shields.io/badge/Nuxt-000000?style=flat-square&logo=nuxtdotjs&logoColor=00FF66)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=00FF66)
-![Tailwind](https://img.shields.io/badge/Tailwind-000000?style=flat-square&logo=tailwindcss&logoColor=00FF66)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-000000?style=flat-square&logo=cloudflare&logoColor=00FF66)
 ![Wrangler](https://img.shields.io/badge/Workers%20%2F%20D1%20%2F%20R2-000000?style=flat-square&logo=cloudflareworkers&logoColor=00FF66)
 ![Remotion](https://img.shields.io/badge/Remotion-000000?style=flat-square&logo=remotion&logoColor=00FF66)
