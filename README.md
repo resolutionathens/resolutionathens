@@ -44,7 +44,7 @@
 - 🎬 **[Slouching Towards Hollywood](https://github.com/resolutionathens/slouching-towards-hollywood)** — Ashley Kennedy's movie-review blog (~200 reviews · Astro)
 - 🌐 **[resolutionathens.com](https://resolutionathens.com)** — Resolution, a full-service Athens ad & design agency
 - 🤪 **[ianslap.top](https://ianslap.top)** — a silly homepage + home of weekend apps (e.g. a Nissan Frontier maintenance tracker)
-- 🏢 **[facilitron.com](https://facilitron.com)** — the day job: programmatic SEO generating thousands of city/facility landing pages, plus an agentic Claude Code layer (the `tron:*` plugin) that drives the whole ship-it lifecycle
+- 🏢 **[facilitron.com](https://facilitron.com)** — the day job: programmatic SEO generating thousands of city/facility landing pages, plus a self-built **agentic OS** (`tron-os`) — orchestration, episodic memory, launchd scheduling, a self-maintenance agent, and an approve-only control plane — that drives a fleet of `tron:*` Claude Code skills across the whole ship-it lifecycle
 
 <!-- ░░░ cat stack.txt ░░░ -->
 
