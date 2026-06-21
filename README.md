@@ -24,8 +24,8 @@
       |_|_|0|                 OS ......  Athens/GA · macOS · Cloudflare edge
       |0|0|0|                 Host ....  Facilitron · strategy · SEO · dev · tooling
                               Kernel ..  Nuxt 4 · Vue 3 · Vite
-      a glider —              Shell ...  zsh + Claude Code
-      still flying            WM ......  tron-os (agentic orchestration layer)
+                              Shell ...  zsh + Claude Code
+                              WM ......  tron-os (agentic orchestration layer)
                               Stack ...  TypeScript · Cloudflare · D1/R2
       $ uptime                Editor ..  neovim
       load avg:               Uptime ..  shipping since the dial-up era
