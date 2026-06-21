@@ -40,7 +40,7 @@
 - 📷 **[fiftymillimeter.com](https://fiftymillimeter.com)** — photography portfolio · Nuxt 4 + Cloudflare R2
 - 🏛️ **[athenspedia.com](https://athenspedia.com)** — an encyclopedia for Athens
 - 🖨️ **[theprinttrade.com](https://theprinttrade.com)** — The Print Trade · printmaking shop & community
-- 🚂 **[1830.exposure.workers.dev](https://1830.exposure.workers.dev)** — 18xx train games, rebuilt for the browser
+- 🚂 **[trains.ianslap.top](https://trains.ianslap.top)** — 18xx train games, rebuilt for the browser
 - 🎬 **[Slouching Towards Hollywood](https://github.com/resolutionathens/slouching-towards-hollywood)**
 - 🤖 **tron-os** — agentic OS: memory · scheduling · self-maintenance (powers my `tron:*` skills)
 - 🏢 **Facilitron** — the day job: marketing-web engineering, SEO, landing pages
