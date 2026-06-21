@@ -39,12 +39,12 @@
 
 - 📷 **[fiftymillimeter.com](https://fiftymillimeter.com)** — photography portfolio · Nuxt 4 + Cloudflare R2
 - 🏛️ **[athenspedia.com](https://athenspedia.com)** — a wiki-style guide to Athens, GA
-- 🖨️ **[theprinttrade.com](https://theprinttrade.com)** — The Print Trade · printmaking shop & community
+- 🖨️ **[theprinttrade.com](https://theprinttrade.com)** — The Print Trade · a community for trading photographic prints
 - 🚂 **[trains.ianslap.top](https://trains.ianslap.top)** — 18xx train games, rebuilt for the browser
 - 🎬 **[Slouching Towards Hollywood](https://github.com/resolutionathens/slouching-towards-hollywood)** — Ashley Kennedy's movie-review blog (~200 reviews · Astro)
 - 🌐 **[resolutionathens.com](https://resolutionathens.com)** — Resolution, a full-service Athens ad & design agency
 - 🤪 **[ianslap.top](https://ianslap.top)** — a silly homepage + home of weekend apps (e.g. a Nissan Frontier maintenance tracker)
-- 🏢 **[facilitron.com](https://facilitron.com)** — the day job: marketing-web engineering, SEO, landing pages
+- 🏢 **[facilitron.com](https://facilitron.com)** — the day job: programmatic SEO generating thousands of city/facility landing pages, plus an agentic Claude Code layer (the `tron:*` plugin) that drives the whole ship-it lifecycle
 
 <!-- ░░░ cat stack.txt ░░░ -->
 
