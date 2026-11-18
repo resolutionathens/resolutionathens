@@ -26,6 +26,7 @@
 
 ### `~ $ ls -la ./projects`
 
+- 🛰️ **[Roscosmos](https://roscosmos.ianslap.top/)** — a mission control for personal and professional work with AI agents
 - 📷 **[fiftymillimeter.com](https://fiftymillimeter.com)** — photography portfolio · Nuxt 4 + Cloudflare R2
 - 🏛️ **[athenspedia.com](https://athenspedia.com)** — a wiki-style guide to Athens, GA
 - 🖨️ **[theprinttrade.com](https://theprinttrade.com)** — The Print Trade · a community for trading photographic prints
